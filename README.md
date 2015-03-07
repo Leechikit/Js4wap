@@ -22,8 +22,8 @@
 * [swipe](#swipe)
 
 
-开发版：[http://192.168.51.104/myproject/js4wap/js4wap.js](http://192.168.51.104/myproject/js4wap/js4wap.js)
-压缩版：[http://192.168.51.104/myproject/js4wap/js4wap.min.js](http://192.168.51.104/myproject/js4wap/js4wap.min.js)
+开发版：[https://github.com/Teddywow/Js4wap/blob/master/src/js4wap.js](https://github.com/Teddywow/Js4wap/blob/master/src/js4wap.js)
+压缩版：[https://github.com/Teddywow/Js4wap/blob/master/src/js4wap.min.js](https://github.com/Teddywow/Js4wap/blob/master/src/js4wap.min.js)
 
 ###$()
 `$(selector) => collection`
